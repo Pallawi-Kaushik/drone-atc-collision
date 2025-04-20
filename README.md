@@ -27,7 +27,7 @@ This project simulates Air Traffic Control for drones with 3D collision detectio
 1. Install dependencies:
 
 ```bash
-pip install matplotlib pandas
+pip install -r requirements.txt
 ```
 
 2. Make sure FFmpeg is installed (`sudo apt install ffmpeg` or use your OS equivalent).
